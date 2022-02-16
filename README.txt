@@ -1,7 +1,4 @@
 Portfolio Website 
-based on Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
 This is my portfolio webpage, for showing off skills and projects for employment. Hope it gets seen
